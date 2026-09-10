@@ -41,29 +41,29 @@ solve real-world problems.
 # 🧠 My Data Science Journey
 
 
-SQL
+-SQL
  ↓
-Python
+-Python
  ↓
-NumPy & Pandas
+-NumPy & Pandas
  ↓
-Data Cleaning
+-Data Cleaning
  ↓
-Exploratory Data Analysis
+-Exploratory Data Analysis
  ↓
-Data Visualization
+-Data Visualization
  ↓
-Machine Learning
+-Machine Learning
  ↓
-Model Evaluation
+-Model Evaluation
  ↓
-Streamlit
+-Streamlit
  ↓
-Generative AI
+-Generative AI
  ↓
-LangChain
+-LangChain
  ↓
-AI Applications
+-AI Applications
 
 ------------------------------------------------------------------------
 
