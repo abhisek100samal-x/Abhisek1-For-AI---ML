@@ -116,15 +116,11 @@ Every project is another step forward. 🚀
 <a href="https://github.com/abhisek100samal-x">
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
-
-
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abhisek100samal@gmail.com)
-
 <a href="https://www.linkedin.com/in/abhisek-samal-28291a244?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-</p>
 
 ---
 
