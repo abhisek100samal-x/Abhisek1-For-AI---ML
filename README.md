@@ -37,124 +37,43 @@ My goal is to build practical Data Science and AI applications that
 solve real-world problems.
 
 ------------------------------------------------------------------------
+---
 
 # 🧠 My Data Science Journey
 
+<div align="center">
 
--SQL
- ↓
--Python
- ↓
--NumPy & Pandas
- ↓
--Data Cleaning
- ↓
--Exploratory Data Analysis
- ↓
--Data Visualization
- ↓
--Machine Learning
- ↓
--Model Evaluation
- ↓
--Streamlit
- ↓
--Generative AI
- ↓
--LangChain
- ↓
--AI Applications
+### 🗄️ SQL → 🐍 Python → 🔢 NumPy → 🐼 Pandas
+
+### 📊 Data Analysis → 📈 Visualization → 🤖 Machine Learning
+
+### 🌐 Streamlit → 🧠 Generative AI → 🔗 LangChain
+
+### 🚀 Real-World AI Applications
+
+</div>
+
+---
 
 ------------------------------------------------------------------------
 
 # 🛠️ Tech Stack
 
-{align="center"}
-### 🐍 Programming
+---
 
-<img src="https://skillicons.dev/icons?i=python" />
+# 🛠️ Tech Stack
 
-### 🗄️ Database
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,matplotlib,sklearn,streamlit" />
 
-### 📊 Data Science
+<br>
 
-**NumPy • Pandas • Matplotlib • Plotly**
+**Python • SQL • NumPy • Pandas • Matplotlib • Scikit-learn • Streamlit**
 
-### 🤖 Machine Learning
-
-**Scikit-learn • Feature Engineering • Model Evaluation**
-
-### 🧠 Generative AI
-
-**LLMs • GenAI • LangChain • RAG**
-
-### 🌐 Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,streamlit,vscode" />
-:::
-
-------------------------------------------------------------------------
-
-# 🚀 Featured Projects
-
-## 📡 Telecom Customer Churn Prediction
-
-> Predicting whether a telecom customer is likely to churn.
-
-### 🔍 What I Worked On
-
--   Data Cleaning & Preprocessing
--   Exploratory Data Analysis
--   Data Visualization
--   Feature Selection
--   Categorical Encoding
--   Machine Learning
--   Model Evaluation
--   Customer Churn Prediction
-
-### 🛠️ Tech Stack
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Streamlit`
-
-### 🎯 Goal
-
-Build a machine learning solution that can identify customers who are
-likely to leave a telecom service.
-
-------------------------------------------------------------------------
-
-## 📊 Data Analysis Projects
-
-> Exploring datasets to discover patterns and generate meaningful
-> insights.
-
-### 🔍 Skills Used
-
--   Data Cleaning
--   Exploratory Data Analysis
--   Statistical Analysis
--   Data Visualization
--   Correlation Analysis
--   Feature Analysis
-
-### 🛠️ Tech Stack
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Plotly` `SQL`
+</div>
 
 
-# 📈 GitHub Analytics
-
-::: {align="center"}
-`<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=abhisek100samal-x&show_icons=true&theme=tokyonight"/>`{=html}
-
-`<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisek100samal-x&layout=compact&theme=tokyonight"/>`{=html}
-:::
-
-------
 
 # 📚 Skills I'm Building
 
@@ -196,9 +115,9 @@ Every project is another step forward. 🚀
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+<div align="center">
 ### ⚡ Learn → Build → Experiment → Improve
 
 ⭐ Thanks for visiting my profile!
-:::
+</div>
 
