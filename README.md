@@ -117,6 +117,7 @@ Every project is another step forward. 🚀
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:abhisek100samal@gmail.com)
 
 <a href="https://www.linkedin.com/in/abhisek-samal-28291a244?utm_source=share_via&utm_content=profile&utm_medium=member_android">
