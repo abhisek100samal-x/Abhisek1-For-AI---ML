@@ -54,46 +54,32 @@ solve real-world problems.
 </div>
 
 ---
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,matplotlib,sklearn,streamlit" />
-
-<br>
-
-**Python • SQL • NumPy • Pandas • Matplotlib • Scikit-learn • Streamlit**
-
-</div>
-
----
 🐍 Programming
-    Python
+   - Python
 
 🗄️ Database
-    MySQL
+   - MySQL
 
 📊 Data Analysis
-    Pandas • NumPy
+   - Pandas • NumPy
 
 📈 Visualization
-    Matplotlib • Plotly
+   - Matplotlib • Plotly
 
 🤖 Machine Learning
-    Scikit-learn
+   - Scikit-learn
 
 🚀 Deployment
-    Streamlit
+   - Streamlit
 
 🧠 Generative AI
-    LLMs • GenAI
+   - LLMs • GenAI
 
 🔗 AI Frameworks
-    LangChain
+   - LangChain
 
 🛠️ Tools
-    Git • GitHub • VS Code
+   - Git • GitHub • VS Code
 
 
 ---
