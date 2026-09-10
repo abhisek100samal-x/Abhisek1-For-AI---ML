@@ -9,6 +9,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Turning+Data+into+Insights+📊;Building+Machine+Learning+Models+🤖;Exploring+Generative+AI+🧠;Learning+%7C+Building+%7C+Improving+🚀" />
 
+</div>
+
 ------------------------------------------------------------------------
 
 ## 🧑‍💻 About Me
@@ -21,14 +23,14 @@ applications.
 
 I'm currently developing my skills in:
 
--   🐍 Python
--   🗄️ SQL
--   📊 Data Analysis
--   📈 Data Visualization
--   🤖 Machine Learning
--   🌐 Streamlit
--   🧠 Generative AI
--   🔗 LangChain
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 🤖 Machine Learning
+- 🌐 Streamlit
+- 🧠 Generative AI
+- 🔗 LangChain
 
 My goal is to build practical Data Science and AI applications that
 solve real-world problems.
@@ -37,7 +39,6 @@ solve real-world problems.
 
 # 🧠 My Data Science Journey
 
-``` text
 SQL
  ↓
 Python
@@ -61,7 +62,6 @@ Generative AI
 LangChain
  ↓
 AI Applications
-```
 
 ------------------------------------------------------------------------
 
@@ -123,27 +123,6 @@ likely to leave a telecom service.
 
 ------------------------------------------------------------------------
 
-## 🗄️ SQL Data Analysis
-
-> Practicing SQL by solving real-world data problems.
-
-### Topics
-
--   SELECT & Filtering
--   Aggregate Functions
--   GROUP BY
--   HAVING
--   Subqueries
--   INNER JOIN
--   LEFT JOIN
--   RIGHT JOIN
--   SELF JOIN
--   Multiple JOINs
--   Window Functions
--   Data Analysis Queries
-
-------------------------------------------------------------------------
-
 ## 📊 Data Analysis Projects
 
 > Exploring datasets to discover patterns and generate meaningful
@@ -162,22 +141,6 @@ likely to leave a telecom service.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Plotly` `SQL`
 
-------------------------------------------------------------------------
-
-## 🤖 Generative AI Projects
-
-> Exploring how LLMs can be used to build practical AI applications.
-
-### Currently Exploring
-
--   Large Language Models
--   Prompt Engineering
--   LangChain
--   RAG Applications
--   AI Assistants
--   AI Agents
-
-------------------------------------------------------------------------
 
 # 📈 GitHub Analytics
 
@@ -189,43 +152,7 @@ src="https://github-readme-stats.vercel.app/api?username=abhisek100samal-x&show_
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisek100samal-x&layout=compact&theme=tokyonight"/>`{=html}
 :::
 
-------------------------------------------------------------------------
-
-# 🎯 Current Focus
-
-``` python
-abhisek = {
-
-    "learning": [
-        "Python",
-        "SQL",
-        "Data Analysis",
-        "Machine Learning",
-        "Generative AI",
-        "LangChain"
-    ],
-
-    "building": [
-        "Data Science Projects",
-        "Machine Learning Applications",
-        "AI Applications"
-    ],
-
-    "exploring": [
-        "LLMs",
-        "RAG",
-        "AI Agents"
-    ],
-
-    "goal":
-        "Become a strong Data Scientist & AI Engineer",
-
-    "motto":
-        "Learn. Build. Improve. Repeat. 🚀"
-}
-```
-
-------------------------------------------------------------------------
+------
 
 # 📚 Skills I'm Building
 
