@@ -113,8 +113,6 @@ Every project is another step forward. 🚀
 
 # 💬 Let's Connect
 
-<p align="center">
-
 <a href="https://github.com/abhisek100samal-x">
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
