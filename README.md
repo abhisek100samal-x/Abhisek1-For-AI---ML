@@ -14,28 +14,42 @@
 ------------------------------------------------------------------------
 
 ## 🧑‍💻 About Me
-Name: Abhisek Samal
 
-Location: Bangalore, India
+<div align="center">
 
-I'm an aspiring Data Science and AI tranee passionate about
-turning data into meaningful insights and building intelligent
-applications.
+### 👋 Hi, I'm Abhisek Samal
 
-I'm currently developing my skills in:
+📍 **Bangalore, India** &nbsp; | &nbsp;
+📧 **abhisek100samal@gmail.com**
 
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Data Analysis
-- 📈 Data Visualization
-- 🤖 Machine Learning
-- 🌐 Streamlit
-- 🧠 Generative AI
-- 🔗 LangChain
+<br>
 
-My goal is to build practical Data Science and AI applications that
-solve real-world problems.
+🎯 **Aspiring Data Science & AI Professional**
 
+<br>
+
+> Turning **data into insights** and **ideas into intelligent applications**.
+
+<br>
+
+### 🛠️ Currently Learning & Building
+
+| 📊 Data | 🤖 Machine Learning | 🧠 AI & Development |
+|:---:|:---:|:---:|
+| Python | Machine Learning | Generative AI |
+| SQL | Data Analysis | LangChain |
+| Pandas | Data Visualization | Streamlit |
+
+<br>
+
+### 🚀 My Mission
+
+**Learn → Build → Experiment → Improve**
+
+Building practical Data Science & AI applications
+that solve real-world problems.
+
+</div>
 ------------------------------------------------------------------------
 ---
 # 🎓 My Data Science Journey at Boston Institute of Analytics
