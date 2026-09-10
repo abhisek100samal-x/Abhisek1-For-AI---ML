@@ -67,21 +67,58 @@ solve real-world problems.
 
 </div>
 
+---
+# 🧩 Skills I'm Building
 
+<div align="center">
 
-# 📚 Skills I'm Building
+### 🐍 Programming
+<img src="https://skillicons.dev/icons?i=python" />
 
-  Area                  Skills
-  --------------------- ------------------------
-  🐍 Programming        Python
-  🗄️ Database           SQL
-  📊 Data Analysis      Pandas • NumPy
-  📈 Visualization      Matplotlib • Plotly
-  🤖 Machine Learning   Scikit-learn
-  🌐 Deployment         Streamlit
-  🧠 Generative AI      LLMs • GenAI
-  🔗 AI Frameworks      LangChain
-  🧰 Tools              Git • GitHub • VS Code
+<br><br>
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br><br>
+
+### 📊 Data Analysis
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+
+<br><br>
+
+### 📈 Data Visualization
+<img src="https://skillicons.dev/icons?i=matplotlib" />
+
+<br><br>
+
+### 🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=sklearn" />
+
+<br><br>
+
+### 🚀 Deployment
+<img src="https://skillicons.dev/icons?i=streamlit" />
+
+<br><br>
+
+### 🧠 Generative AI
+<img src="https://skillicons.dev/icons?i=pytorch" />
+
+<br><br>
+
+### 🔗 AI Frameworks
+<img src="https://skillicons.dev/icons?i=langchain" />
+
+<br><br>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
 
 ---
 
