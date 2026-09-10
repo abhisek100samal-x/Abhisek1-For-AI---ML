@@ -39,19 +39,89 @@ solve real-world problems.
 ------------------------------------------------------------------------
 ---
 
-# 🧠 My Data Science Journey
+# 🎓 My Data Science Journey at Boston Institute of Analytics
 
 <div align="center">
 
-### 🗄️ SQL → 🐍 Python → 🔢 NumPy → 🐼 Pandas
+### 📊 Data & Analytics
 
-### 📊 Data Analysis → 📈 Visualization → 🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
-### 🌐 Streamlit → 🧠 Generative AI → 🔗 LangChain
+<br>
 
-### 🚀 Real-World AI Applications
+`Pandas` • `NumPy` • `Excel` • `Statistics` • `Probability`
+
+<br><br>
+
+### 📈 Data Visualization & Business Intelligence
+
+<img src="https://skillicons.dev/icons?i=matplotlib" />
+
+<br>
+
+`Seaborn` • `Tableau` • `Power BI` • `DAX` • `Data Storytelling`
+
+<br><br>
+
+### 🤖 Machine Learning
+
+`Supervised Learning` • `Unsupervised Learning` • `Regression`  
+`Classification` • `Decision Trees` • `Random Forest`  
+`Gradient Boosting` • `AdaBoost` • `K-Means`  
+`SVM` • `KNN` • `Logistic Regression`
+
+<br><br>
+
+### 📐 Statistics & Model Evaluation
+
+`Hypothesis Testing` • `T-Test` • `Z-Test` • `Chi-Square`  
+`ANOVA` • `Correlation` • `Regression` • `Confidence Intervals`  
+`MAE` • `MSE` • `RMSE` • `R²`  
+`Accuracy` • `Precision` • `Recall` • `F1-Score`  
+`ROC-AUC` • `Cross-Validation` • `Grid Search`
+
+<br><br>
+
+### ⏳ Time Series & Forecasting
+
+`Time Series Analysis` • `ARIMA` • `SARIMA` • `Forecasting`
+
+<br><br>
+
+### 🧠 Deep Learning
+
+`ANN` • `CNN` • `RNN` • `LSTM` • `GRU`  
+`Dropout` • `Regularization` • `Model Training`
+
+<br><br>
+
+### 💬 Natural Language Processing
+
+`NLP` • `Text Preprocessing` • `Text Classification`  
+`Word Embeddings` • `GloVe` • `N-Grams`
+
+<br><br>
+
+### ✨ Generative AI & LLMs
+
+`Generative AI` • `Transformers` • `LLMs`  
+`Prompt Engineering` • `Text Generation` • `Text Summarization`  
+`Hugging Face` • `RAG` • `LLM Fine-Tuning`
+
+<br><br>
+
+### 🚀 AI Applications & Deployment
+
+`Streamlit` • `Gradio`  
+`Chatbot Development` • `Text-to-Speech` • `Speech-to-Text`
 
 </div>
+
+---
+
+> **Learn → Build → Experiment → Improve 🚀**
+
+Every project is another step forward.
 
 ---
 🐍 Programming
