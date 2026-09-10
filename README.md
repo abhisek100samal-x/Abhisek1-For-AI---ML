@@ -15,6 +15,7 @@
 
 ## 🧑‍💻 About Me
 Name: Abhisek Samal
+
 Location: Bangalore, India
 
 I'm an aspiring Data Science and AI tranee passionate about
@@ -38,7 +39,7 @@ solve real-world problems.
 ------------------------------------------------------------------------
 
 # 🧠 My Data Science Journey
-
+---
 SQL
  ↓
 Python
@@ -62,7 +63,7 @@ Generative AI
 LangChain
  ↓
 AI Applications
-
+---
 ------------------------------------------------------------------------
 
 # 🛠️ Tech Stack
