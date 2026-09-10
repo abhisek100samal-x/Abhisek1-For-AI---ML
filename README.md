@@ -100,10 +100,24 @@ solve real-world problems.
 Every project is another step forward. 🚀
 
 ------------------------------------------------------------------------
+---
+
+# 🏆 Certifications
+
+🎖️ BOSTON INSTITUTE OF ANALYTICS - Data Science & Artificial Intelligence
+
+🎖️ Prepinsta — DBMS Nano Degree 
+
+🎖️ Prepinsta — Cloud Computing Nano Degree 
+
+🎖️ Prepinsta — SQL Nano Degree 
+
+🎖️ Acmegrade — Cloud Computing Internship
+
+---
 
 # ☕ Let's Connect
 
-::: {align="center"}
 <a href="https://github.com/abhisek100samal-x">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
 </a>
