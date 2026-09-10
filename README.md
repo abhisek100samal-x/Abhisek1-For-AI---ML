@@ -39,7 +39,8 @@ solve real-world problems.
 ------------------------------------------------------------------------
 
 # 🧠 My Data Science Journey
----
+
+
 SQL
  ↓
 Python
@@ -63,12 +64,12 @@ Generative AI
 LangChain
  ↓
 AI Applications
----
+
 ------------------------------------------------------------------------
 
 # 🛠️ Tech Stack
 
-::: {align="center"}
+{align="center"}
 ### 🐍 Programming
 
 <img src="https://skillicons.dev/icons?i=python" />
