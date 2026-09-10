@@ -38,90 +38,170 @@ solve real-world problems.
 
 ------------------------------------------------------------------------
 ---
-
 # 🎓 My Data Science Journey at Boston Institute of Analytics
 
 <div align="center">
 
-### 📊 Data & Analytics
+<p>
+  <b>📊 Data Science</b> &nbsp; • &nbsp;
+  <b>🤖 Machine Learning</b> &nbsp; • &nbsp;
+  <b>🧠 Artificial Intelligence</b>
+</p>
+
+<br>
+
+<h3>📊 Data & Analytics</h3>
 
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 
+<p>
+  <code>Pandas</code> •
+  <code>NumPy</code> •
+  <code>Excel</code> •
+  <code>Statistics</code> •
+  <code>Probability</code>
+</p>
+
 <br>
 
-`Pandas` • `NumPy` • `Excel` • `Statistics` • `Probability`
-
-<br><br>
-
-### 📈 Data Visualization & Business Intelligence
+<h3>📈 Data Visualization & Business Intelligence</h3>
 
 <img src="https://skillicons.dev/icons?i=matplotlib" />
 
+<p>
+  <code>Seaborn</code> •
+  <code>Tableau</code> •
+  <code>Power BI</code> •
+  <code>DAX</code> •
+  <code>Data Storytelling</code>
+</p>
+
 <br>
 
-`Seaborn` • `Tableau` • `Power BI` • `DAX` • `Data Storytelling`
+<h3>🤖 Machine Learning</h3>
 
-<br><br>
+<p>
+  <code>Supervised Learning</code> •
+  <code>Unsupervised Learning</code> •
+  <code>Regression</code><br>
+  <code>Classification</code> •
+  <code>Decision Trees</code> •
+  <code>Random Forest</code><br>
+  <code>Gradient Boosting</code> •
+  <code>AdaBoost</code> •
+  <code>K-Means</code><br>
+  <code>SVM</code> •
+  <code>KNN</code> •
+  <code>Logistic Regression</code>
+</p>
 
-### 🤖 Machine Learning
+<br>
 
-`Supervised Learning` • `Unsupervised Learning` • `Regression`  
-`Classification` • `Decision Trees` • `Random Forest`  
-`Gradient Boosting` • `AdaBoost` • `K-Means`  
-`SVM` • `KNN` • `Logistic Regression`
+<h3>📐 Statistics & Model Evaluation</h3>
 
-<br><br>
+<p>
+  <code>Hypothesis Testing</code> •
+  <code>T-Test</code> •
+  <code>Z-Test</code> •
+  <code>Chi-Square</code><br>
+  <code>ANOVA</code> •
+  <code>Correlation</code> •
+  <code>Regression</code> •
+  <code>Confidence Intervals</code><br>
+  <code>MAE</code> •
+  <code>MSE</code> •
+  <code>RMSE</code> •
+  <code>R²</code><br>
+  <code>Accuracy</code> •
+  <code>Precision</code> •
+  <code>Recall</code> •
+  <code>F1-Score</code><br>
+  <code>ROC-AUC</code> •
+  <code>Cross-Validation</code> •
+  <code>Grid Search</code>
+</p>
 
-### 📐 Statistics & Model Evaluation
+<br>
 
-`Hypothesis Testing` • `T-Test` • `Z-Test` • `Chi-Square`  
-`ANOVA` • `Correlation` • `Regression` • `Confidence Intervals`  
-`MAE` • `MSE` • `RMSE` • `R²`  
-`Accuracy` • `Precision` • `Recall` • `F1-Score`  
-`ROC-AUC` • `Cross-Validation` • `Grid Search`
+<h3>⏳ Time Series & Forecasting</h3>
 
-<br><br>
+<p>
+  <code>Time Series Analysis</code> •
+  <code>ARIMA</code> •
+  <code>SARIMA</code> •
+  <code>Forecasting</code>
+</p>
 
-### ⏳ Time Series & Forecasting
+<br>
 
-`Time Series Analysis` • `ARIMA` • `SARIMA` • `Forecasting`
+<h3>🧠 Deep Learning</h3>
 
-<br><br>
+<p>
+  <code>ANN</code> •
+  <code>CNN</code> •
+  <code>RNN</code> •
+  <code>LSTM</code> •
+  <code>GRU</code><br>
+  <code>Dropout</code> •
+  <code>Regularization</code> •
+  <code>Model Training</code>
+</p>
 
-### 🧠 Deep Learning
+<br>
 
-`ANN` • `CNN` • `RNN` • `LSTM` • `GRU`  
-`Dropout` • `Regularization` • `Model Training`
+<h3>💬 Natural Language Processing</h3>
 
-<br><br>
+<p>
+  <code>NLP</code> •
+  <code>Text Preprocessing</code> •
+  <code>Text Classification</code><br>
+  <code>Word Embeddings</code> •
+  <code>GloVe</code> •
+  <code>N-Grams</code>
+</p>
 
-### 💬 Natural Language Processing
+<br>
 
-`NLP` • `Text Preprocessing` • `Text Classification`  
-`Word Embeddings` • `GloVe` • `N-Grams`
+<h3>✨ Generative AI & LLMs</h3>
 
-<br><br>
+<p>
+  <code>Generative AI</code> •
+  <code>Transformers</code> •
+  <code>LLMs</code><br>
+  <code>Prompt Engineering</code> •
+  <code>Text Generation</code> •
+  <code>Text Summarization</code><br>
+  <code>Hugging Face</code> •
+  <code>RAG</code> •
+  <code>LLM Fine-Tuning</code>
+</p>
 
-### ✨ Generative AI & LLMs
+<br>
 
-`Generative AI` • `Transformers` • `LLMs`  
-`Prompt Engineering` • `Text Generation` • `Text Summarization`  
-`Hugging Face` • `RAG` • `LLM Fine-Tuning`
+<h3>🚀 AI Applications & Deployment</h3>
 
-<br><br>
+<p>
+  <code>Streamlit</code> •
+  <code>Gradio</code><br>
+  <code>Chatbot Development</code> •
+  <code>Text-to-Speech</code> •
+  <code>Speech-to-Text</code>
+</p>
 
-### 🚀 AI Applications & Deployment
+<br>
 
-`Streamlit` • `Gradio`  
-`Chatbot Development` • `Text-to-Speech` • `Speech-to-Text`
+<hr>
+
+<p>
+  <b>⚡ Learn → Build → Experiment → Improve 🚀</b>
+</p>
+
+<p>
+  Every project is another step forward.
+</p>
 
 </div>
 
----
-
-> **Learn → Build → Experiment → Improve 🚀**
-
-Every project is another step forward.
 
 ---
 🐍 Programming
