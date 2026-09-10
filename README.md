@@ -39,12 +39,6 @@ real-world problems and create meaningful impact.
 
 ---
 
-
-
-
-
-------------------------------------------------------------------------
----
 # 🎓 My Data Science Journey at Boston Institute of Analytics
 
 <div align="center">
