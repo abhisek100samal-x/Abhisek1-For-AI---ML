@@ -202,36 +202,6 @@ solve real-world problems.
 
 </div>
 
-
----
-🐍 Programming
-   - Python
-
-🗄️ Database
-   - MySQL
-
-📊 Data Analysis
-   - Pandas • NumPy
-
-📈 Visualization
-   - Matplotlib • Plotly
-
-🤖 Machine Learning
-   - Scikit-learn
-
-🚀 Deployment
-   - Streamlit
-
-🧠 Generative AI
-   - LLMs • GenAI
-
-🔗 AI Frameworks
-   - LangChain
-
-🛠️ Tools
-   - Git • GitHub • VS Code
-
-
 ---
 
 # 🏆 Certifications
