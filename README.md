@@ -1,24 +1,21 @@
-# abhisek100samal-x
-```{=html}
 <p align="center">
-```
-`<img src="./banner.png" width="100%" alt="Abhisek Samal Banner">`{=html}
-```{=html}
+<img src="./MYBanner.png" width="100%" alt="Abhisek Samal Banner">
 </p>
-```
-::: {align="center"}
+<div align="center">
+ 
 # 👋 Hey, I'm Abhisek Samal
 
 ### 🚀 Aspiring Data Science & AI Trainee
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Turning+Data+into+Insights+📊;Building+Machine+Learning+Models+🤖;Exploring+Generative+AI+🧠;Learning+%7C+Building+%7C+Improving+🚀" />`{=html}
-:::
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Turning+Data+into+Insights+📊;Building+Machine+Learning+Models+🤖;Exploring+Generative+AI+🧠;Learning+%7C+Building+%7C+Improving+🚀" />
 
 ------------------------------------------------------------------------
 
 ## 🧑‍💻 About Me
+Name: Abhisek Samal
+Location: Bangalore, India
 
-I'm an aspiring Data Science and AI professional passionate about
+I'm an aspiring Data Science and AI tranee passionate about
 turning data into meaningful insights and building intelligent
 applications.
 
@@ -73,11 +70,11 @@ AI Applications
 ::: {align="center"}
 ### 🐍 Programming
 
-`<img src="https://skillicons.dev/icons?i=python" />`{=html}
+<img src="https://skillicons.dev/icons?i=python" />
 
 ### 🗄️ Database
 
-`<img src="https://skillicons.dev/icons?i=mysql" />`{=html}
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### 📊 Data Science
 
@@ -93,7 +90,7 @@ AI Applications
 
 ### 🌐 Tools & Deployment
 
-`<img src="https://skillicons.dev/icons?i=git,github,streamlit,vscode" />`{=html}
+<img src="https://skillicons.dev/icons?i=git,github,streamlit,vscode" />
 :::
 
 ------------------------------------------------------------------------
@@ -259,9 +256,9 @@ Every project is another step forward. 🚀
 # ☕ Let's Connect
 
 ::: {align="center"}
-`<a href="https://github.com/abhisek100samal-x">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">`{=html}
-`</a>`{=html}
+<a href="https://github.com/abhisek100samal-x">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+</a>
 
 `<a href="https://www.linkedin.com/">`{=html}
 `<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">`{=html}
